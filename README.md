@@ -23,4 +23,4 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
 # Ini adalah repository untuk latihan membuat branch baru di GitHub
 <hr>
-Github itu asyik lo!!!!.
+Belajar GitHub di Dicoding itu seru!!.
